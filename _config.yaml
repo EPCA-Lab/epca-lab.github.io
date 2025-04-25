@@ -8,12 +8,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@HPCA-Lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email:  hessabi@sharif.edu
+  orcid: 0000-0003-3193-2567
+  google-scholar: upXLWZEAAAAJ
   github: HPCA-Lab
-  twitter: HPCA-Lab
-  youtube: HPCA-Lab
 
 ### jekyll settings
 
