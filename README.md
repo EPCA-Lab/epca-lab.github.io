@@ -5,4 +5,4 @@
 
   # HPCA-Lab's Website
 
-  Visit **[hpca-lab.github.io](https://hpca-lab.github.io)** 🚀
+  Visit **[epca-lab.github.io](https://epca-lab.github.io)** 🚀
