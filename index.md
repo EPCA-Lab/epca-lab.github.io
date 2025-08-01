@@ -1,7 +1,7 @@
 ---
 ---
 
-# EPCA-Lab's Website
+# HPCA-Lab's Website
 
 An engaging 1-3 sentence description of your lab.
 
@@ -9,6 +9,7 @@ An engaging 1-3 sentence description of your lab.
 
 ## Highlights
 
+{% capture text %}
 {%
   include button.html
   link="research"
@@ -17,7 +18,6 @@ An engaging 1-3 sentence description of your lab.
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
@@ -28,6 +28,7 @@ An engaging 1-3 sentence description of your lab.
   text=text
 %}
 
+{% capture text %}
 {%
   include button.html
   link="team"
@@ -36,7 +37,6 @@ An engaging 1-3 sentence description of your lab.
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
