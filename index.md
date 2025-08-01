@@ -41,7 +41,7 @@ An engaging 1-3 sentence description of your lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team-photo.jpeg"
   link="team"
   title="Our Team"
   text=text
