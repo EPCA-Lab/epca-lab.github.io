@@ -1,6 +1,6 @@
 ---
 name: Atiyeh Gheibi
-image: images/photo.jpg
+image: images/atiyeh.jpeg
 role: phd
 links:
   email: atiyeh.gheibi@example.com

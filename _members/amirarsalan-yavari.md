@@ -1,6 +1,6 @@
 ---
 name: Amirarsalan Yavari
-image: images/photo.jpg
+image: images/arsalan.png
 role: msc
 links:
   email: amirarsalan.yavari@example.com

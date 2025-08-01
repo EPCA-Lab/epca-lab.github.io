@@ -1,6 +1,6 @@
 ---
 name: Sahand Zoufan
-image: images/photo.jpg
+image: images/sahand.jpg
 role: msc
 links:
   email: sahand.zoufan@example.com

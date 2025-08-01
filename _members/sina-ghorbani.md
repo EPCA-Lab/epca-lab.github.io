@@ -1,6 +1,6 @@
 ---
 name: Sina Ghorbani
-image: images/photo.jpg
+image: images/sina.jpg
 role: msc
 links:
   email: sina.ghorbani@example.com

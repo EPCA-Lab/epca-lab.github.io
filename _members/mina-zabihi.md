@@ -1,6 +1,6 @@
 ---
 name: Mina Zabihi
-image: images/photo.jpg
+image: images/mina.png
 role: msc
 links:
   email: mina.zabihi@example.com

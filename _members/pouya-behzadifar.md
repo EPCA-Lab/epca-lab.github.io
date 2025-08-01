@@ -1,6 +1,6 @@
 ---
 name: Pouya Behzadifar
-image: images/photo.jpg
+image: images/pouya behzadifar.jpeg
 role: msc
 links:
   email: pouya.behzadifar@example.com

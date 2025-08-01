@@ -1,6 +1,6 @@
 ---
 name: Sahar Jafari
-image: images/photo.jpg
+image: images/sahar_image.jpg
 role: msc
 links:
   email: sahar.jafari@example.com

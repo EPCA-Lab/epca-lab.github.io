@@ -1,6 +1,6 @@
 ---
 name: Ali Shazaei
-image: images/photo.jpg
+image: images/ali.jpg
 role: msc
 links:
   email: ali.shazaei@example.com
