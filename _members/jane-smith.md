@@ -1,7 +1,7 @@
 ---
 name: Shaahin Hessabi
 image: images/photo.jpg
-role: principal-investigator
+role: pi
 affiliation: Sharif University of Technology
 links:
   home-page: https://sharif.edu/~hessabi/
