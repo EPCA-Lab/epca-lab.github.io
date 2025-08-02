@@ -17,6 +17,8 @@ nav:
 
 {% include portrait.html lookup="pouya-toutounchian" %}
 {% include portrait.html lookup="atiyeh-gheibi" %}
+{% include portrait.html lookup="nassibeh-golizadeh" %}
+
 
 ## MSc Students
 
